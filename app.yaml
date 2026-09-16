@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: spotify-console
+owner: unknowncreations778
+package: unknowncreations778/spotify-console
